@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="610" viewBox="0 0 490 610">
+<rect x="1" y="1" width="488" height="608" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="488" height="38" rx="10" fill="#161b22"/>
+<circle cx="22" cy="20" r="6" fill="#f85149"/><circle cx="42" cy="20" r="6" fill="#d29922"/><circle cx="62" cy="20" r="6" fill="#3fb950"/>
+<text x="82" y="25" fill="#8b949e" font-family="Cascadia Mono,Consolas,monospace" font-size="13">daksh@github — neofetch</text>
+<style>
+.k{fill:#79c0ff;font-family:"Cascadia Mono","Consolas",monospace;font-size:15px;font-weight:bold}
+.v{fill:#c9d1d9;font-family:"Cascadia Mono","Consolas",monospace;font-size:15px}
+.s{fill:#8b949e;font-family:"Cascadia Mono","Consolas",monospace;font-size:13px}
+.line{opacity:0;animation:show .45s ease-out forwards}
+@keyframes show{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}
+</style>
+<g class="line" style="animation-delay:.15s"><text class="k" x="28" y="76">daksh</text><text class="v" x="90" y="76">@github</text></g>
+<line x1="28" y1="90" x2="462" y2="90" stroke="#30363d"/>
+<g class="line" style="animation-delay:.30s"><text class="k" x="28" y="121">Name</text><text class="v" x="150" y="121">Daksh Sharma</text></g>
+<g class="line" style="animation-delay:.42s"><text class="k" x="28" y="153">Role</text><text class="v" x="150" y="153">CSE Student</text></g>
+<g class="line" style="animation-delay:.54s"><text class="k" x="28" y="185">Focus</text><text class="v" x="150" y="185">Backend • AI/ML</text></g>
+<g class="line" style="animation-delay:.66s"><text class="k" x="28" y="217">Primary</text><text class="v" x="150" y="217">Java • Spring Boot</text></g>
+<g class="line" style="animation-delay:.78s"><text class="k" x="28" y="249">Also</text><text class="v" x="150" y="249">Python • FastAPI</text></g>
+<g class="line" style="animation-delay:.90s"><text class="k" x="28" y="281">Database</text><text class="v" x="150" y="281">PostgreSQL • SQL</text></g>
+<g class="line" style="animation-delay:1.02s"><text class="k" x="28" y="313">DSA</text><text class="v" x="150" y="313">Striver A2Z • Java</text></g>
+<line x1="28" y1="340" x2="462" y2="340" stroke="#30363d"/>
+<g class="line" style="animation-delay:1.18s"><text class="s" x="28" y="369">$ cat current-focus.txt</text></g>
+<g class="line" style="animation-delay:1.30s"><text class="v" x="28" y="401">→ Spring Boot internship preparation</text></g>
+<g class="line" style="animation-delay:1.42s"><text class="v" x="28" y="431">→ DSA + LeetCode</text></g>
+<g class="line" style="animation-delay:1.54s"><text class="v" x="28" y="461">→ AI / ML / GenAI systems</text></g>
+<g class="line" style="animation-delay:1.66s"><text class="v" x="28" y="491">→ Hackathons &amp; real-world projects</text></g>
+<line x1="28" y1="518" x2="462" y2="518" stroke="#30363d"/>
+<g class="line" style="animation-delay:1.82s"><text class="s" x="28" y="548">$ echo "building, learning, shipping"</text></g>
+<g class="line" style="animation-delay:1.94s"><text class="v" x="28" y="580">STATUS: ONLINE</text><circle cx="147" cy="575" r="5" fill="#3fb950"/></g>
+</svg>
